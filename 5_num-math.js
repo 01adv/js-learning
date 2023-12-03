@@ -20,3 +20,10 @@ console.log(hun.toLocaleString('en-IN'));  //it'll put commas in the number acc 
 
 
 console.log(Math.abs(-1));
+console.log(Math.round(3.4));
+console.log(Math.min(2, 4, 1, 0, 32));
+console.log(Math.max(3, 23, 223, 345, 234, 4444));
+
+console.log(Math.round(Math.random()*7));  //random only gives decimal num among 0 to 1
+
+ 
